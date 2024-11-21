@@ -1,5 +1,12 @@
 body {
-     color: yellow;
+    color: darkgray;
     background: darkred;
+    margin: 0px;
+}
 
+header {
+    border-bottom: solid 2px darkgray;
+    padding: 20px;
+    font-size: 32px;
+    color: darkgray;
 }
